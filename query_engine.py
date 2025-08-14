@@ -2,11 +2,9 @@ import pandas as pd
 import json
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-# ==== CONFIGURATION ====
 
-# Your Gemini API Key (can also be stored in environment variables for security)
-GEMINI_API_KEY = "AIzaSyBA61S-IBFPpMTqc2X2y_RTGXzZOLgA3hw"  # <- replace with your actual key
 
+GEMINI_API_KEY = "AIzaSyBA61S-IBFPpMTqc2X2y_RTGXzZOLgA3hw"  
 # Load student data
 with open("students.json", "r") as f:
     data = json.load(f)
