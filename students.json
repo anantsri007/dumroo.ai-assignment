@@ -1,0 +1,47 @@
+[
+  {
+    "student_name": "Aman Singh",
+    "grade": 8,
+    "class": "A",
+    "submission_status": "not_submitted",
+    "quiz_score": 88,
+    "quiz_date": "2025-08-10",
+    "region": "North"
+  },
+  {
+    "student_name": "Saloni Gupta",
+    "grade": 8,
+    "class": "B",
+    "submission_status": "submitted",
+    "quiz_score": 91,
+    "quiz_date": "2025-08-10",
+    "region": "North"
+  },
+  {
+    "student_name": "Rahul Mehra",
+    "grade": 7,
+    "class": "A",
+    "submission_status": "not_submitted",
+    "quiz_score": 67,
+    "quiz_date": "2025-08-09",
+    "region": "East"
+  },
+  {
+    "student_name": "Nisha Patel",
+    "grade": 8,
+    "class": "A",
+    "submission_status": "submitted",
+    "quiz_score": 77,
+    "quiz_date": "2025-08-10",
+    "region": "North"
+  },
+  {
+    "student_name": "Pooja Verma",
+    "grade": 8,
+    "class": "A",
+    "submission_status": "not_submitted",
+    "quiz_score": null,
+    "quiz_date": null,
+    "region": "North"
+  }
+]
